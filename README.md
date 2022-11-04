@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Telegram](https://telegram.me/RealShinchan18)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsoumik18&show_icons=true&locale=en" alt="iamsoumik18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsoumik18&show_icons=true&theme=transparent" alt="iamsoumik18" /></p>
